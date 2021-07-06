@@ -1,5 +1,17 @@
 body {
 	text-align: center;
+	background-color: black;
+}
+
+h1 {
+	color: hotpink;
+	font-size: 5em;
+	margin: 0px;
+	font-family: 'Calligraffitti', cursive;
+}
+
+p {
+	margin: 0px;
 }
 
 img	{
