@@ -7,7 +7,8 @@ h1 {
 	color: hotpink;
 	font-size: 4.5em;
 	margin: 0px;
-	font-family: 'Calligraffitti', 'Crafty Girls', cursive;
+	font-family: 'Calligraffitti', 'Crafty Girls', cursive. 'Arial';
+
 }
 
 p {
