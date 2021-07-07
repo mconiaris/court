@@ -1,0 +1,23 @@
+{
+  "name": "court",
+  "version": "1.0.0",
+  "description": "Court's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mconiaris/court.git"
+  },
+  "keywords": [
+    "Courtney",
+    "Follweiler"
+  ],
+  "author": "Michael Coniaris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mconiaris/court/issues"
+  },
+  "homepage": "https://github.com/mconiaris/court#readme"
+}
